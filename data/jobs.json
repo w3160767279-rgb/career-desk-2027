@@ -1,0 +1,1563 @@
+{
+  "meta": {
+    "updatedAt": "2026-08-10T07:22:59.083Z",
+    "edition": "2027届秋招",
+    "notice": "网申日期和薪资以单位最新招聘公告为准",
+    "linkHealth": {
+      "huawei-soft": {
+        "id": "huawei-soft",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:54.546Z"
+      },
+      "tencent-dev": {
+        "id": "tencent-dev",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:54.632Z"
+      },
+      "alibaba-algo": {
+        "id": "alibaba-algo",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:54.740Z"
+      },
+      "bytedance-data": {
+        "id": "bytedance-data",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:54.832Z"
+      },
+      "meituan-product": {
+        "id": "meituan-product",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:54.919Z"
+      },
+      "jd-supply": {
+        "id": "jd-supply",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.015Z"
+      },
+      "baidu-ai": {
+        "id": "baidu-ai",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.119Z"
+      },
+      "xiaomi-hardware": {
+        "id": "xiaomi-hardware",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.214Z"
+      },
+      "netease-game": {
+        "id": "netease-game",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.292Z"
+      },
+      "cmb-fintech": {
+        "id": "cmb-fintech",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.358Z"
+      },
+      "icbc-tech": {
+        "id": "icbc-tech",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.442Z"
+      },
+      "boc-manager": {
+        "id": "boc-manager",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.513Z"
+      },
+      "cmcc-cloud": {
+        "id": "cmcc-cloud",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.662Z"
+      },
+      "telecom-network": {
+        "id": "telecom-network",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.693Z"
+      },
+      "unicom-data": {
+        "id": "unicom-data",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.822Z"
+      },
+      "stategrid-elec": {
+        "id": "stategrid-elec",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:55.930Z"
+      },
+      "crrc-control": {
+        "id": "crrc-control",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.054Z"
+      },
+      "byd-vehicle": {
+        "id": "byd-vehicle",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.122Z"
+      },
+      "nio-software": {
+        "id": "nio-software",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.254Z"
+      },
+      "pdd-operation": {
+        "id": "pdd-operation",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.380Z"
+      },
+      "csg-grid": {
+        "id": "csg-grid",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.480Z"
+      },
+      "csair-flight": {
+        "id": "csair-flight",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.614Z"
+      },
+      "cnooc-shenzhen": {
+        "id": "cnooc-shenzhen",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:56.835Z"
+      },
+      "crpower-sz": {
+        "id": "crpower-sz",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:57.817Z"
+      },
+      "cmg-sz": {
+        "id": "cmg-sz",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:57.990Z"
+      },
+      "gzmetro": {
+        "id": "gzmetro",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.080Z"
+      },
+      "szmetro": {
+        "id": "szmetro",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.175Z"
+      },
+      "gac-rd": {
+        "id": "gac-rd",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.272Z"
+      },
+      "szinvest": {
+        "id": "szinvest",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.298Z"
+      },
+      "cetcsz": {
+        "id": "cetcsz",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.357Z"
+      },
+      "gd-grid": {
+        "id": "gd-grid",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.368Z"
+      },
+      "sz-power": {
+        "id": "sz-power",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.380Z"
+      },
+      "cmg-port": {
+        "id": "cmg-port",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.581Z"
+      },
+      "cmhk-securities": {
+        "id": "cmhk-securities",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.703Z"
+      },
+      "cr-land-sz": {
+        "id": "cr-land-sz",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.851Z"
+      },
+      "ctyun-gd": {
+        "id": "ctyun-gd",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.981Z"
+      },
+      "cetc-gd": {
+        "id": "cetc-gd",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:58.990Z"
+      },
+      "gac-aion": {
+        "id": "gac-aion",
+        "ok": false,
+        "status": "EACCES",
+        "checkedAt": "2026-08-10T07:22:59.083Z"
+      }
+    }
+  },
+  "jobs": [
+    {
+      "id": "huawei-soft",
+      "company": "华为",
+      "abbr": "HW",
+      "color": "#b6282d",
+      "nature": "民营企业",
+      "role": "软件开发工程师",
+      "category": "技术研发",
+      "cities": [
+        "深圳",
+        "上海",
+        "北京",
+        "杭州",
+        "南京",
+        "武汉",
+        "西安",
+        "成都",
+        "东莞"
+      ],
+      "salaryMin": 18,
+      "salaryMax": 35,
+      "salaryText": "18–35K/月 · 14–16薪",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-07-01",
+      "applyEnd": "2026-10-31",
+      "applyText": "2026.07–2026.10（以官网批次为准）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "电子信息类",
+        "数学类"
+      ],
+      "url": "https://career.huawei.com/reccampportal/portal5/index.html",
+      "status": "网申中",
+      "benefits": "年终奖、绩效奖金、五险一金、员工培训",
+      "source": "华为校园招聘官网"
+    },
+    {
+      "id": "tencent-dev",
+      "company": "腾讯",
+      "abbr": "TX",
+      "color": "#2876d0",
+      "nature": "民营企业",
+      "role": "后台开发工程师",
+      "category": "技术研发",
+      "cities": [
+        "深圳",
+        "北京",
+        "上海",
+        "广州",
+        "成都",
+        "杭州"
+      ],
+      "salaryMin": 22,
+      "salaryMax": 40,
+      "salaryText": "22–40K/月 · 16薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-01",
+      "applyEnd": "2026-10-20",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "电子信息类",
+        "数学类"
+      ],
+      "url": "https://join.qq.com/",
+      "status": "网申中",
+      "benefits": "五险一金、年度体检、餐补、带薪年假",
+      "source": "腾讯校招官网"
+    },
+    {
+      "id": "alibaba-algo",
+      "company": "阿里巴巴",
+      "abbr": "AL",
+      "color": "#f06a16",
+      "nature": "民营企业",
+      "role": "算法工程师",
+      "category": "算法",
+      "cities": [
+        "杭州",
+        "北京",
+        "上海",
+        "深圳",
+        "广州"
+      ],
+      "salaryMin": 25,
+      "salaryMax": 45,
+      "salaryText": "25–45K/月 · 16薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-07-15",
+      "applyEnd": "2026-10-15",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "人工智能",
+        "数学类",
+        "统计学"
+      ],
+      "url": "https://talent.alibaba.com/campus/home",
+      "status": "网申中",
+      "benefits": "绩效奖金、五险一金、餐补、健康保障",
+      "source": "阿里巴巴校园招聘官网"
+    },
+    {
+      "id": "bytedance-data",
+      "company": "字节跳动",
+      "abbr": "BD",
+      "color": "#18191c",
+      "nature": "民营企业",
+      "role": "数据分析师",
+      "category": "数据",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "杭州",
+        "广州"
+      ],
+      "salaryMin": 20,
+      "salaryMax": 38,
+      "salaryText": "20–38K/月 · 15薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-07-20",
+      "applyEnd": "2026-11-30",
+      "applyText": "滚动招聘（以岗位页面为准）",
+      "written": true,
+      "majors": [
+        "统计学",
+        "数学类",
+        "计算机类",
+        "经济学"
+      ],
+      "url": "https://jobs.bytedance.com/campus/",
+      "status": "网申中",
+      "benefits": "五险一金、餐补、租房补贴、年度体检",
+      "source": "字节跳动校园招聘官网"
+    },
+    {
+      "id": "meituan-product",
+      "company": "美团",
+      "abbr": "MT",
+      "color": "#e8aa00",
+      "nature": "民营企业",
+      "role": "产品经理",
+      "category": "产品",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "成都"
+      ],
+      "salaryMin": 18,
+      "salaryMax": 32,
+      "salaryText": "18–32K/月 · 15.5薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-01",
+      "applyEnd": "2026-10-31",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "专业不限",
+        "计算机类",
+        "管理科学",
+        "经济学"
+      ],
+      "url": "https://zhaopin.meituan.com/web/campus",
+      "status": "网申中",
+      "benefits": "五险一金、带薪年假、餐补、年度体检",
+      "source": "美团校园招聘官网"
+    },
+    {
+      "id": "jd-supply",
+      "company": "京东",
+      "abbr": "JD",
+      "color": "#d6292f",
+      "nature": "民营企业",
+      "role": "供应链管理",
+      "category": "供应链",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "成都",
+        "武汉",
+        "宿迁"
+      ],
+      "salaryMin": 14,
+      "salaryMax": 26,
+      "salaryText": "14–26K/月 · 14薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-01",
+      "applyEnd": "2026-11-15",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "物流管理",
+        "工业工程",
+        "管理科学",
+        "计算机类"
+      ],
+      "url": "https://campus.jd.com/",
+      "status": "网申中",
+      "benefits": "五险一金、员工宿舍、餐补、培训体系",
+      "source": "京东校园招聘官网"
+    },
+    {
+      "id": "baidu-ai",
+      "company": "百度",
+      "abbr": "BD",
+      "color": "#3055d7",
+      "nature": "民营企业",
+      "role": "机器学习工程师",
+      "category": "算法",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳"
+      ],
+      "salaryMin": 24,
+      "salaryMax": 45,
+      "salaryText": "24–45K/月 · 15薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-07-20",
+      "applyEnd": "2026-10-31",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "人工智能",
+        "计算机类",
+        "数学类",
+        "自动化"
+      ],
+      "url": "https://talent.baidu.com/jobs/list",
+      "status": "网申中",
+      "benefits": "五险一金、补充医疗、餐补、带薪年假",
+      "source": "百度招聘官网"
+    },
+    {
+      "id": "xiaomi-hardware",
+      "company": "小米集团",
+      "abbr": "MI",
+      "color": "#f56600",
+      "nature": "民营企业",
+      "role": "硬件研发工程师",
+      "category": "硬件",
+      "cities": [
+        "北京",
+        "深圳",
+        "上海",
+        "南京",
+        "武汉"
+      ],
+      "salaryMin": 18,
+      "salaryMax": 32,
+      "salaryText": "18–32K/月 · 14薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-01",
+      "applyEnd": "2026-10-31",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "电子信息类",
+        "自动化",
+        "通信工程",
+        "计算机类"
+      ],
+      "url": "https://hr.xiaomi.com/campus",
+      "status": "网申中",
+      "benefits": "五险一金、年度体检、餐补、产品福利",
+      "source": "小米招聘官网"
+    },
+    {
+      "id": "netease-game",
+      "company": "网易",
+      "abbr": "NE",
+      "color": "#be292e",
+      "nature": "民营企业",
+      "role": "游戏开发工程师",
+      "category": "技术研发",
+      "cities": [
+        "杭州",
+        "广州",
+        "上海"
+      ],
+      "salaryMin": 20,
+      "salaryMax": 36,
+      "salaryText": "20–36K/月 · 14–16薪",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-01",
+      "applyEnd": "2026-10-20",
+      "applyText": "秋招批次开放中（以官网为准）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "数字媒体技术",
+        "数学类"
+      ],
+      "url": "https://campus.163.com/",
+      "status": "网申中",
+      "benefits": "五险一金、餐补、班车、年度体检",
+      "source": "网易校园招聘官网"
+    },
+    {
+      "id": "cmb-fintech",
+      "company": "招商银行",
+      "abbr": "CMB",
+      "color": "#b51f2c",
+      "nature": "股份制银行",
+      "role": "金融科技岗",
+      "category": "金融科技",
+      "cities": [
+        "深圳",
+        "上海",
+        "北京",
+        "杭州",
+        "成都",
+        "武汉"
+      ],
+      "salaryMin": 15,
+      "salaryMax": 28,
+      "salaryText": "15–28K/月 · 综合年薪参考",
+      "salaryNote": "分行及岗位差异较大",
+      "applyStart": "2026-08-15",
+      "applyEnd": "2026-10-15",
+      "applyText": "预计 8–10 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "信息安全",
+        "数学类"
+      ],
+      "url": "https://career.cmbchina.com/",
+      "status": "即将开始",
+      "benefits": "六险二金、带薪年假、餐补、节日福利",
+      "source": "招商银行招聘官网"
+    },
+    {
+      "id": "icbc-tech",
+      "company": "中国工商银行",
+      "abbr": "ICBC",
+      "color": "#a51d2d",
+      "nature": "中央国企",
+      "role": "科技菁英岗",
+      "category": "金融科技",
+      "cities": [
+        "北京",
+        "上海",
+        "杭州",
+        "广州",
+        "成都",
+        "西安"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 24,
+      "salaryText": "12–24K/月 · 综合年薪参考",
+      "salaryNote": "以各机构公告为准",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-10-15",
+      "applyText": "预计 9–10 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "电子信息类",
+        "数学类",
+        "统计学"
+      ],
+      "url": "https://job.icbc.com.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、带薪年假、工会福利",
+      "source": "工商银行人才招聘官网"
+    },
+    {
+      "id": "boc-manager",
+      "company": "中国银行",
+      "abbr": "BOC",
+      "color": "#a22636",
+      "nature": "中央国企",
+      "role": "管理培训生",
+      "category": "管理培训生",
+      "cities": [
+        "北京",
+        "上海",
+        "深圳",
+        "广州",
+        "各省会城市"
+      ],
+      "salaryMin": 10,
+      "salaryMax": 22,
+      "salaryText": "10–22K/月 · 综合年薪参考",
+      "salaryNote": "机构与城市差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-10-20",
+      "applyText": "预计 9–10 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "专业不限",
+        "经济学",
+        "金融学",
+        "计算机类"
+      ],
+      "url": "https://www.boc.cn/aboutboc/bi4/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、带薪年假、培训体系",
+      "source": "中国银行招聘门户"
+    },
+    {
+      "id": "cmcc-cloud",
+      "company": "中国移动",
+      "abbr": "CM",
+      "color": "#1883c4",
+      "nature": "中央国企",
+      "role": "云计算工程师",
+      "category": "技术研发",
+      "cities": [
+        "北京",
+        "上海",
+        "广州",
+        "深圳",
+        "南京",
+        "成都",
+        "武汉"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 25,
+      "salaryText": "12–25K/月 · 综合年薪参考",
+      "salaryNote": "子公司与地区差异较大",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-11-15",
+      "applyText": "预计 8–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "通信工程",
+        "电子信息类",
+        "自动化"
+      ],
+      "url": "https://job.10086.cn/",
+      "status": "即将开始",
+      "benefits": "六险二金、企业年金、通信补贴、带薪年假",
+      "source": "中国移动招聘官网"
+    },
+    {
+      "id": "telecom-network",
+      "company": "中国电信",
+      "abbr": "CT",
+      "color": "#2374ad",
+      "nature": "中央国企",
+      "role": "网络技术工程师",
+      "category": "通信技术",
+      "cities": [
+        "北京",
+        "上海",
+        "广州",
+        "深圳",
+        "南京",
+        "成都",
+        "武汉",
+        "西安"
+      ],
+      "salaryMin": 11,
+      "salaryMax": 23,
+      "salaryText": "11–23K/月 · 综合年薪参考",
+      "salaryNote": "省公司与岗位差异较大",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-11-10",
+      "applyText": "预计 8–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "通信工程",
+        "计算机类",
+        "电子信息类",
+        "网络工程"
+      ],
+      "url": "https://job.chinatelecom.com.cn/",
+      "status": "即将开始",
+      "benefits": "六险二金、企业年金、通信补贴、员工培训",
+      "source": "中国电信招聘官网"
+    },
+    {
+      "id": "unicom-data",
+      "company": "中国联通",
+      "abbr": "CU",
+      "color": "#b81c31",
+      "nature": "中央国企",
+      "role": "大数据开发工程师",
+      "category": "数据",
+      "cities": [
+        "北京",
+        "上海",
+        "广州",
+        "深圳",
+        "南京",
+        "成都"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 24,
+      "salaryText": "12–24K/月 · 综合年薪参考",
+      "salaryNote": "省公司与岗位差异较大",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-11-10",
+      "applyText": "预计 8–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "统计学",
+        "数学类"
+      ],
+      "url": "https://www.chinaunicom.com.cn/59/menu01/530/column05",
+      "status": "即将开始",
+      "benefits": "六险二金、企业年金、通信补贴、带薪年假",
+      "source": "中国联通校招门户"
+    },
+    {
+      "id": "stategrid-elec",
+      "company": "国家电网",
+      "abbr": "SG",
+      "color": "#12806a",
+      "nature": "中央国企",
+      "role": "信息通信技术岗",
+      "category": "通信技术",
+      "cities": [
+        "北京",
+        "上海",
+        "南京",
+        "杭州",
+        "武汉",
+        "成都",
+        "各省会城市"
+      ],
+      "salaryMin": 10,
+      "salaryMax": 20,
+      "salaryText": "10–20K/月 · 综合年薪参考",
+      "salaryNote": "地区及单位差异较大",
+      "applyStart": "2026-11-01",
+      "applyEnd": "2026-12-10",
+      "applyText": "预计 11–12 月第一批（待公告）",
+      "written": true,
+      "majors": [
+        "电气工程",
+        "计算机类",
+        "通信工程",
+        "自动化"
+      ],
+      "url": "https://zhaopin.sgcc.com.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、员工宿舍、带薪年假",
+      "source": "国家电网招聘平台"
+    },
+    {
+      "id": "crrc-control",
+      "company": "中国中车",
+      "abbr": "CRRC",
+      "color": "#1766a5",
+      "nature": "中央国企",
+      "role": "控制系统工程师",
+      "category": "硬件",
+      "cities": [
+        "北京",
+        "上海",
+        "青岛",
+        "株洲",
+        "长春",
+        "南京"
+      ],
+      "salaryMin": 10,
+      "salaryMax": 22,
+      "salaryText": "10–22K/月 · 综合年薪参考",
+      "salaryNote": "子公司与城市差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "自动化",
+        "机械工程",
+        "电气工程",
+        "电子信息类"
+      ],
+      "url": "https://www.crrcgc.cc/rczp",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、员工宿舍、餐补",
+      "source": "中国中车人才招聘官网"
+    },
+    {
+      "id": "byd-vehicle",
+      "company": "比亚迪",
+      "abbr": "BYD",
+      "color": "#bf1f2b",
+      "nature": "民营企业",
+      "role": "新能源汽车研发工程师",
+      "category": "汽车研发",
+      "cities": [
+        "深圳",
+        "西安",
+        "长沙",
+        "合肥",
+        "济南"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 28,
+      "salaryText": "12–28K/月 · 13–15薪",
+      "salaryNote": "岗位与学历差异较大",
+      "applyStart": "2026-07-01",
+      "applyEnd": "2026-12-31",
+      "applyText": "滚动招聘（以岗位页面为准）",
+      "written": true,
+      "majors": [
+        "车辆工程",
+        "机械工程",
+        "自动化",
+        "电子信息类"
+      ],
+      "url": "https://job.byd.com/",
+      "status": "网申中",
+      "benefits": "五险一金、员工宿舍、餐补、购车福利",
+      "source": "比亚迪招聘官网"
+    },
+    {
+      "id": "nio-software",
+      "company": "蔚来",
+      "abbr": "NIO",
+      "color": "#234259",
+      "nature": "民营企业",
+      "role": "智能座舱软件工程师",
+      "category": "汽车研发",
+      "cities": [
+        "上海",
+        "合肥",
+        "北京",
+        "南京"
+      ],
+      "salaryMin": 20,
+      "salaryMax": 35,
+      "salaryText": "20–35K/月 · 14薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "滚动招聘（以岗位页面为准）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "车辆工程",
+        "自动化",
+        "电子信息类"
+      ],
+      "url": "https://nio.jobs.feishu.cn/campus",
+      "status": "网申中",
+      "benefits": "五险一金、补充医疗、餐补、产品体验福利",
+      "source": "蔚来校园招聘官网"
+    },
+    {
+      "id": "pdd-operation",
+      "company": "拼多多",
+      "abbr": "PDD",
+      "color": "#df292b",
+      "nature": "民营企业",
+      "role": "商业运营管培生",
+      "category": "运营",
+      "cities": [
+        "上海",
+        "广州",
+        "深圳"
+      ],
+      "salaryMin": 18,
+      "salaryMax": 32,
+      "salaryText": "18–32K/月 · 14–16薪",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-07-15",
+      "applyEnd": "2026-11-30",
+      "applyText": "滚动招聘（以岗位页面为准）",
+      "written": true,
+      "majors": [
+        "专业不限",
+        "经济学",
+        "管理科学",
+        "统计学"
+      ],
+      "url": "https://careers.pinduoduo.com/campus",
+      "status": "网申中",
+      "benefits": "五险一金、餐补、带薪年假、年度体检",
+      "source": "拼多多校园招聘官网"
+    },
+    {
+      "id": "csg-grid",
+      "company": "南方电网",
+      "abbr": "CSG",
+      "color": "#0a6d5b",
+      "nature": "中央国企",
+      "role": "电网数字化工程师",
+      "category": "技术研发",
+      "cities": [
+        "广州",
+        "深圳",
+        "佛山",
+        "东莞",
+        "珠海"
+      ],
+      "salaryMin": 13,
+      "salaryMax": 26,
+      "salaryText": "13–26K/月 · 综合年薪参考",
+      "salaryNote": "省市单位差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "电气工程",
+        "计算机类",
+        "通信工程",
+        "自动化"
+      ],
+      "url": "https://zhaopin.csg.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、员工宿舍、带薪年假",
+      "source": "南方电网招聘官网",
+      "priority": true
+    },
+    {
+      "id": "csair-flight",
+      "company": "中国南方航空",
+      "abbr": "CZ",
+      "color": "#1d6eaa",
+      "nature": "中央国企",
+      "role": "信息技术与数据岗",
+      "category": "技术研发",
+      "cities": [
+        "广州",
+        "深圳"
+      ],
+      "salaryMin": 11,
+      "salaryMax": 23,
+      "salaryText": "11–23K/月 · 综合年薪参考",
+      "salaryNote": "岗位与基地差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "数据科学",
+        "通信工程"
+      ],
+      "url": "https://job.csair.com/",
+      "status": "待公告",
+      "benefits": "六险二金、员工机票、带薪年假、补充医疗",
+      "source": "中国南方航空招聘官网",
+      "priority": true
+    },
+    {
+      "id": "cnooc-shenzhen",
+      "company": "中国海洋石油集团",
+      "abbr": "CNOOC",
+      "color": "#087e9a",
+      "nature": "中央国企",
+      "role": "数字化与工程技术岗",
+      "category": "技术研发",
+      "cities": [
+        "深圳",
+        "广州",
+        "湛江"
+      ],
+      "salaryMin": 14,
+      "salaryMax": 28,
+      "salaryText": "14–28K/月 · 综合年薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-15",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "石油工程",
+        "自动化",
+        "电子信息类"
+      ],
+      "url": "https://www.cnooc.com.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、住房补贴、海上津贴",
+      "source": "中国海油招聘官网",
+      "priority": true
+    },
+    {
+      "id": "crpower-sz",
+      "company": "华润集团",
+      "abbr": "CR",
+      "color": "#b32b38",
+      "nature": "中央国企",
+      "role": "战略与数字化管培生",
+      "category": "管理培训生",
+      "cities": [
+        "深圳",
+        "广州"
+      ],
+      "salaryMin": 15,
+      "salaryMax": 30,
+      "salaryText": "15–30K/月 · 综合年薪参考",
+      "salaryNote": "业务单元差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "专业不限",
+        "计算机类",
+        "经济学",
+        "管理科学"
+      ],
+      "url": "https://www.crc.com.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、补充医疗、带薪年假",
+      "source": "华润人才招聘官网",
+      "priority": true
+    },
+    {
+      "id": "cmg-sz",
+      "company": "招商局集团",
+      "abbr": "CMG",
+      "color": "#0b6976",
+      "nature": "中央国企",
+      "role": "数字科技管培生",
+      "category": "金融科技",
+      "cities": [
+        "深圳",
+        "广州",
+        "香港"
+      ],
+      "salaryMin": 16,
+      "salaryMax": 30,
+      "salaryText": "16–30K/月 · 综合年薪参考",
+      "salaryNote": "子公司与岗位差异较大",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-11-15",
+      "applyText": "预计 8–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "金融学",
+        "统计学",
+        "经济学"
+      ],
+      "url": "https://www.cmhk.com/main/a/2024/04/19/202404191548143063.html",
+      "status": "即将开始",
+      "benefits": "六险二金、企业年金、住房补贴、培训体系",
+      "source": "招商局集团招聘官网",
+      "priority": true
+    },
+    {
+      "id": "gzmetro",
+      "company": "广州地铁集团",
+      "abbr": "GZ",
+      "color": "#13745f",
+      "nature": "地方国企",
+      "role": "信息化与工程技术岗",
+      "category": "技术研发",
+      "cities": [
+        "广州"
+      ],
+      "salaryMin": 10,
+      "salaryMax": 20,
+      "salaryText": "10–20K/月 · 综合年薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-12-15",
+      "applyText": "预计 9–12 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "通信工程",
+        "电气工程",
+        "自动化"
+      ],
+      "url": "https://www.gzmtr.com/ygwm/",
+      "status": "待公告",
+      "benefits": "五险一金、企业年金、交通补贴、员工宿舍",
+      "source": "广州地铁招聘官网",
+      "priority": true
+    },
+    {
+      "id": "szmetro",
+      "company": "深圳地铁集团",
+      "abbr": "SZ",
+      "color": "#1274a4",
+      "nature": "地方国企",
+      "role": "智慧城轨技术岗",
+      "category": "技术研发",
+      "cities": [
+        "深圳"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 23,
+      "salaryText": "12–23K/月 · 综合年薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-12-15",
+      "applyText": "预计 9–12 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "通信工程",
+        "电气工程",
+        "自动化"
+      ],
+      "url": "https://www.sz-mtr.com/hr/",
+      "status": "待公告",
+      "benefits": "五险一金、企业年金、交通补贴、带薪年假",
+      "source": "深圳地铁招聘官网",
+      "priority": true
+    },
+    {
+      "id": "gac-rd",
+      "company": "广汽集团",
+      "abbr": "GAC",
+      "color": "#1d5587",
+      "nature": "地方国企",
+      "role": "智能汽车研发工程师",
+      "category": "汽车研发",
+      "cities": [
+        "广州",
+        "深圳"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 25,
+      "salaryText": "12–25K/月 · 综合年薪参考",
+      "salaryNote": "研究院及子公司差异较大",
+      "applyStart": "2026-08-15",
+      "applyEnd": "2026-11-30",
+      "applyText": "秋招批次预计 8–11 月",
+      "written": true,
+      "majors": [
+        "车辆工程",
+        "计算机类",
+        "自动化",
+        "电子信息类"
+      ],
+      "url": "https://www.gac.com.cn/",
+      "status": "即将开始",
+      "benefits": "五险一金、员工购车福利、餐补、培训体系",
+      "source": "广汽集团招聘官网",
+      "priority": true
+    },
+    {
+      "id": "szinvest",
+      "company": "深圳市投资控股有限公司",
+      "abbr": "SI",
+      "color": "#2b6f60",
+      "nature": "地方国企",
+      "role": "产业投资与数字化岗",
+      "category": "金融科技",
+      "cities": [
+        "深圳"
+      ],
+      "salaryMin": 13,
+      "salaryMax": 25,
+      "salaryText": "13–25K/月 · 综合年薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "金融学",
+        "经济学",
+        "计算机类",
+        "财务管理"
+      ],
+      "url": "https://www.szinvestment.com/",
+      "status": "待公告",
+      "benefits": "五险一金、企业年金、餐补、带薪年假",
+      "source": "深圳投控官网",
+      "priority": true
+    },
+    {
+      "id": "cetcsz",
+      "company": "中国电子科技集团",
+      "abbr": "CETC",
+      "color": "#1a5f95",
+      "nature": "中央国企",
+      "role": "芯片与信息安全研发岗",
+      "category": "硬件",
+      "cities": [
+        "深圳",
+        "广州"
+      ],
+      "salaryMin": 15,
+      "salaryMax": 30,
+      "salaryText": "15–30K/月 · 综合年薪参考",
+      "salaryNote": "研究所与岗位差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-12-15",
+      "applyText": "预计 9–12 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "电子信息类",
+        "计算机类",
+        "微电子科学",
+        "通信工程"
+      ],
+      "url": "https://www.cetc.com.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、科研补贴、住房补贴、员工培训",
+      "source": "中国电科人才招聘官网",
+      "priority": true
+    },
+    {
+      "id": "gd-grid",
+      "company": "广东电网有限责任公司",
+      "abbr": "GD",
+      "color": "#0b765f",
+      "nature": "中央国企子公司",
+      "parent": "南方电网",
+      "role": "电气与数字化技术岗",
+      "category": "技术研发",
+      "cities": [
+        "广州",
+        "深圳",
+        "东莞",
+        "佛山",
+        "珠海"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 24,
+      "salaryText": "12–24K/月 · 综合年薪参考",
+      "salaryNote": "地市单位差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "电气工程",
+        "计算机类",
+        "通信工程",
+        "自动化"
+      ],
+      "url": "https://zhaopin.csg.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、带薪年假",
+      "source": "广东电网官方招聘入口",
+      "priority": true,
+      "openRoles": [
+        "输电线路运检技术员",
+        "配电数字化工程师",
+        "信息通信工程师"
+      ],
+      "requirements": "本科及以上；电气工程、计算机、通信、自动化等相关专业；部分岗位要求通过英语四级。"
+    },
+    {
+      "id": "sz-power",
+      "company": "深圳供电局有限公司",
+      "abbr": "SZP",
+      "color": "#087b64",
+      "nature": "中央国企子公司",
+      "parent": "南方电网",
+      "role": "数字电网技术岗",
+      "category": "技术研发",
+      "cities": [
+        "深圳"
+      ],
+      "salaryMin": 14,
+      "salaryMax": 27,
+      "salaryText": "14–27K/月 · 综合年薪参考",
+      "salaryNote": "以公告及录用通知为准",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "电气工程",
+        "计算机类",
+        "通信工程",
+        "自动化"
+      ],
+      "url": "https://zhaopin.csg.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、企业年金、住房补贴",
+      "source": "深圳供电局官方入口",
+      "priority": true,
+      "openRoles": [
+        "数字化转型工程师",
+        "变电运检技术员",
+        "配网规划工程师"
+      ],
+      "requirements": "本科及以上；电气、计算机、通信、自动化专业优先；须符合深圳供电局招聘公告的体检与资格要求。"
+    },
+    {
+      "id": "cmg-port",
+      "company": "招商局港口集团",
+      "abbr": "CMPT",
+      "color": "#176c76",
+      "nature": "中央国企子公司",
+      "parent": "招商局集团",
+      "role": "港口运营与数字化岗",
+      "category": "运营",
+      "cities": [
+        "深圳",
+        "广州"
+      ],
+      "salaryMin": 12,
+      "salaryMax": 24,
+      "salaryText": "12–24K/月 · 综合年薪参考",
+      "salaryNote": "岗位及港区差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "物流管理",
+        "计算机类",
+        "交通运输",
+        "机械工程"
+      ],
+      "url": "https://www.cmport.com.hk/cn/career",
+      "status": "待公告",
+      "benefits": "五险一金、企业年金、餐补、培训体系",
+      "source": "招商局港口官方招聘入口",
+      "priority": true,
+      "openRoles": [
+        "港口智能调度专员",
+        "生产运营管培生",
+        "数据产品助理"
+      ],
+      "requirements": "本科及以上；物流、交通、计算机、机械等专业；接受港口现场及轮班工作安排。"
+    },
+    {
+      "id": "cmhk-securities",
+      "company": "招商证券",
+      "abbr": "CMS",
+      "color": "#9f2531",
+      "nature": "中央国企子公司",
+      "parent": "招商局集团",
+      "role": "金融科技岗",
+      "category": "金融科技",
+      "cities": [
+        "深圳",
+        "广州"
+      ],
+      "salaryMin": 15,
+      "salaryMax": 30,
+      "salaryText": "15–30K/月 · 综合年薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-10-31",
+      "applyText": "预计 8–10 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "金融工程",
+        "数学类"
+      ],
+      "url": "https://www.cmschina.com/",
+      "status": "即将开始",
+      "benefits": "六险二金、补充医疗、餐补、带薪年假",
+      "source": "招商证券官方入口",
+      "priority": true,
+      "openRoles": [
+        "金融科技管培生",
+        "量化开发工程师",
+        "数据治理工程师"
+      ],
+      "requirements": "本科及以上；计算机、软件、金融工程、数学等专业；具备 Python/Java 或数据库基础。"
+    },
+    {
+      "id": "cr-land-sz",
+      "company": "华润置地",
+      "abbr": "CRL",
+      "color": "#a72d3b",
+      "nature": "中央国企子公司",
+      "parent": "华润集团",
+      "role": "工程与投资管培生",
+      "category": "管理培训生",
+      "cities": [
+        "深圳",
+        "广州"
+      ],
+      "salaryMin": 13,
+      "salaryMax": 26,
+      "salaryText": "13–26K/月 · 综合年薪参考",
+      "salaryNote": "城市及岗位差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 9–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "土木工程",
+        "工程管理",
+        "金融学",
+        "计算机类"
+      ],
+      "url": "https://www.crland.com.hk/cn/career",
+      "status": "待公告",
+      "benefits": "五险一金、企业年金、住房补贴、员工培训",
+      "source": "华润置地官方招聘入口",
+      "priority": true,
+      "openRoles": [
+        "工程管理管培生",
+        "投资拓展管培生",
+        "数字化运营管培生"
+      ],
+      "requirements": "本科及以上；工程、投资、地产、计算机等专业；接受项目现场及跨城市轮岗。"
+    },
+    {
+      "id": "ctyun-gd",
+      "company": "天翼云科技有限公司",
+      "abbr": "CTY",
+      "color": "#2675ad",
+      "nature": "中央国企子公司",
+      "parent": "中国电信",
+      "role": "云计算研发工程师",
+      "category": "技术研发",
+      "cities": [
+        "广州",
+        "深圳"
+      ],
+      "salaryMin": 15,
+      "salaryMax": 30,
+      "salaryText": "15–30K/月 · 综合年薪参考",
+      "salaryNote": "公开岗位综合参考",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 8–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "软件工程",
+        "网络工程",
+        "信息安全"
+      ],
+      "url": "https://www.ctyun.cn/",
+      "status": "即将开始",
+      "benefits": "六险二金、餐补、补充医疗、技术培训",
+      "source": "天翼云官方入口",
+      "priority": true,
+      "openRoles": [
+        "云平台研发工程师",
+        "云安全工程师",
+        "DevOps 工程师"
+      ],
+      "requirements": "本科及以上；计算机、软件、网络、信息安全等专业；熟悉 Linux、Java/Go/Python 任一方向。"
+    },
+    {
+      "id": "cetc-gd",
+      "company": "中国电子科技集团成员单位（广州/深圳）",
+      "abbr": "CETC",
+      "color": "#1a5f95",
+      "nature": "中央国企子公司",
+      "parent": "中国电科",
+      "role": "芯片与信息安全研发岗",
+      "category": "硬件",
+      "cities": [
+        "广州",
+        "深圳"
+      ],
+      "salaryMin": 15,
+      "salaryMax": 30,
+      "salaryText": "15–30K/月 · 综合年薪参考",
+      "salaryNote": "研究所与岗位差异较大",
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-12-15",
+      "applyText": "预计 9–12 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "电子信息类",
+        "计算机类",
+        "微电子科学",
+        "通信工程"
+      ],
+      "url": "https://www.cetc.com.cn/",
+      "status": "待公告",
+      "benefits": "六险二金、科研补贴、住房补贴、员工培训",
+      "source": "中国电科官方入口",
+      "priority": true,
+      "openRoles": [
+        "芯片验证工程师",
+        "嵌入式开发工程师",
+        "网络安全研发工程师"
+      ],
+      "requirements": "硕士优先；微电子、电子信息、计算机、通信等专业；具备 C/C++、Verilog 或网络安全基础。"
+    },
+    {
+      "id": "gac-aion",
+      "company": "广汽埃安新能源汽车",
+      "abbr": "AION",
+      "color": "#1b5b8d",
+      "nature": "地方国企子公司",
+      "parent": "广汽集团",
+      "role": "智能汽车软件工程师",
+      "category": "汽车研发",
+      "cities": [
+        "广州"
+      ],
+      "salaryMin": 13,
+      "salaryMax": 28,
+      "salaryText": "13–28K/月 · 13–15薪参考",
+      "salaryNote": "岗位与学历差异较大",
+      "applyStart": "2026-08-20",
+      "applyEnd": "2026-11-30",
+      "applyText": "预计 8–11 月（待官方公告）",
+      "written": true,
+      "majors": [
+        "计算机类",
+        "车辆工程",
+        "自动化",
+        "电子信息类"
+      ],
+      "url": "https://www.aion.com.cn/",
+      "status": "即将开始",
+      "benefits": "五险一金、员工购车福利、餐补、年度体检",
+      "source": "广汽埃安官方入口",
+      "priority": true,
+      "openRoles": [
+        "智能座舱软件工程师",
+        "自动驾驶算法工程师",
+        "车联网开发工程师"
+      ],
+      "requirements": "本科及以上；计算机、车辆、自动化、电子信息等专业；掌握 C++/Python，具备项目经历。"
+    }
+  ]
+}

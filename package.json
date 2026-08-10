@@ -1,0 +1,11 @@
+{
+  "name": "campus-job-tracker-2027",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "update": "node scripts/update-data.mjs",
+    "check": "node --check app.js && node --check server.mjs && node --check scripts/update-data.mjs"
+  }
+}

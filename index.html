@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="2027届秋招投递追踪工作台">
+  <title>秋招工作台 · 2027届</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">C</span><div><strong>Career Desk</strong><small>2027 秋招工作台</small></div></div>
+      <nav aria-label="主导航">
+        <button class="nav-item active" data-view="jobs"><span class="nav-icon">▦</span>职位机会</button>
+        <button class="nav-item" data-view="pipeline"><span class="nav-icon">✓</span>投递进度</button>
+        <button class="nav-item" data-view="favorites"><span class="nav-icon">☆</span>我的收藏</button>
+      </nav>
+      <div class="season-card">
+        <span>2027 届秋招</span>
+        <strong id="seasonProgress">进行中</strong>
+        <div class="progress"><i></i></div>
+        <small>建议每周完成 8–12 次有效投递</small>
+      </div>
+      <button class="profile-button" id="profileButton"><span class="avatar">应</span><span><strong>我的求职偏好</strong><small id="profileSummary">城市与岗位设置</small></span><b>›</b></button>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div><p class="eyebrow">2027 CAMPUS RECRUITMENT</p><h1>秋招机会追踪</h1><p>聚合官方校招入口，管理从关注到录用的完整进度。</p></div>
+        <div class="sync"><span class="sync-dot"></span><div><strong>数据已同步</strong><small id="syncTime">正在读取…</small></div><button id="refreshButton" title="刷新数据" aria-label="刷新数据">↻</button></div>
+      </header>
+
+      <section class="metrics" aria-label="投递概览">
+        <article><span>匹配机会</span><strong id="metricMatched">0</strong><small>当前筛选结果</small></article>
+        <article><span>已投递</span><strong id="metricApplied">0</strong><small id="metricAppliedSub">继续保持节奏</small></article>
+        <article><span>进行中</span><strong id="metricActive">0</strong><small>笔试 / 面试阶段</small></article>
+        <article><span>本周截止</span><strong id="metricDeadline">0</strong><small>优先检查临期职位</small></article>
+      </section>
+
+      <section class="workspace">
+        <div class="workspace-head">
+          <div><h2 id="viewTitle">职位机会</h2><p id="resultCount">正在载入招聘信息…</p></div>
+          <div class="view-actions"><button class="secondary" id="resetFilters">重置筛选</button><button class="primary" id="exportButton">导出投递记录</button></div>
+        </div>
+        <div class="filters">
+          <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="搜索单位、岗位或专业"></label>
+          <label><span>城市</span><select id="cityFilter"><option value="">全部城市</option></select></label>
+          <label><span>岗位</span><select id="roleFilter"><option value="">全部岗位</option></select></label>
+          <label><span>单位性质</span><select id="natureFilter"><option value="">全部性质</option></select></label>
+          <label><span>最低月薪</span><select id="salaryFilter"><option value="0">不限薪资</option><option value="15">15K+</option><option value="20">20K+</option><option value="25">25K+</option><option value="30">30K+</option></select></label>
+          <label><span>招聘专业</span><select id="majorFilter"><option value="">全部专业</option></select></label>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>单位 / 岗位</th><th>性质</th><th>工作地点</th><th>薪资待遇</th><th>网申时间</th><th>流程</th><th>投递状态</th><th></th></tr></thead>
+            <tbody id="jobsBody"></tbody>
+          </table>
+          <div class="empty" id="emptyState" hidden><strong>没有符合条件的机会</strong><span>调整筛选条件后再试</span></div>
+        </div>
+      </section>
+      <footer>数据来自单位官方招聘网站 · 薪资为公开岗位参考，最终以招聘公告与录用通知为准</footer>
+    </main>
+  </div>
+
+  <dialog id="detailDialog"><div id="detailContent"></div></dialog>
+  <dialog id="profileDialog">
+    <form method="dialog" id="profileForm">
+      <div class="dialog-head"><div><span class="eyebrow">PERSONAL PREFERENCE</span><h2>求职偏好</h2></div><button value="cancel" aria-label="关闭">×</button></div>
+      <p class="form-note">用于优先展示更适合你的招聘机会，不会上传个人信息。</p>
+      <fieldset><legend>理想工作城市</legend><div class="check-grid" id="cityPreferences"></div></fieldset>
+      <fieldset><legend>职业类型</legend><div class="check-grid" id="rolePreferences"></div></fieldset>
+      <label class="range-label">期望最低月薪 <output id="salaryOutput">15K</output><input id="salaryPreference" type="range" min="8" max="40" step="1" value="15"></label>
+      <div class="dialog-actions"><button value="cancel" class="secondary">取消</button><button value="default" class="primary" id="saveProfile">保存偏好</button></div>
+    </form>
+  </dialog>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
