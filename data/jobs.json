@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-14T01:56:25.219Z",
+    "updatedAt": "2026-10-15T01:31:03.405Z",
     "edition": "2027届秋招",
     "notice": "网申日期和薪资以单位最新招聘公告为准",
     "linkHealth": {
@@ -8,229 +8,229 @@
         "id": "huawei-soft",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:54:56.022Z"
+        "checkedAt": "2026-10-15T01:29:46.992Z"
       },
       "tencent-dev": {
         "id": "tencent-dev",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:54:56.656Z"
+        "checkedAt": "2026-10-15T01:29:47.411Z"
       },
       "alibaba-algo": {
         "id": "alibaba-algo",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:54:58.281Z"
+        "checkedAt": "2026-10-15T01:29:49.319Z"
       },
       "bytedance-data": {
         "id": "bytedance-data",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:54:59.998Z"
+        "checkedAt": "2026-10-15T01:29:51.168Z"
       },
       "meituan-product": {
         "id": "meituan-product",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:01.466Z"
+        "checkedAt": "2026-10-15T01:29:52.490Z"
       },
       "jd-supply": {
         "id": "jd-supply",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:02.869Z"
+        "checkedAt": "2026-10-15T01:29:53.687Z"
       },
       "baidu-ai": {
         "id": "baidu-ai",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:04.021Z"
+        "checkedAt": "2026-10-15T01:29:54.742Z"
       },
       "xiaomi-hardware": {
         "id": "xiaomi-hardware",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:06.085Z"
+        "checkedAt": "2026-10-15T01:29:56.666Z"
       },
       "netease-game": {
         "id": "netease-game",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:07.150Z"
+        "checkedAt": "2026-10-15T01:29:58.276Z"
       },
       "cmb-fintech": {
         "id": "cmb-fintech",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:08.347Z"
+        "checkedAt": "2026-10-15T01:29:59.693Z"
       },
       "icbc-tech": {
         "id": "icbc-tech",
         "ok": false,
         "status": "ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED",
-        "checkedAt": "2026-10-14T01:55:09.636Z"
+        "checkedAt": "2026-10-15T01:30:00.875Z"
       },
       "boc-manager": {
         "id": "boc-manager",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:11.203Z"
+        "checkedAt": "2026-10-15T01:30:03.583Z"
       },
       "cmcc-cloud": {
         "id": "cmcc-cloud",
         "ok": false,
-        "status": "ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED",
-        "checkedAt": "2026-10-14T01:55:12.615Z"
+        "status": "ETIMEDOUT",
+        "checkedAt": "2026-10-15T01:30:05.186Z"
       },
       "telecom-network": {
         "id": "telecom-network",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:16.819Z"
+        "checkedAt": "2026-10-15T01:30:07.430Z"
       },
       "unicom-data": {
         "id": "unicom-data",
         "ok": false,
         "status": "ECONNRESET",
-        "checkedAt": "2026-10-14T01:55:19.339Z"
+        "checkedAt": "2026-10-15T01:30:09.414Z"
       },
       "stategrid-elec": {
         "id": "stategrid-elec",
         "ok": true,
         "status": 412,
-        "checkedAt": "2026-10-14T01:55:23.521Z"
+        "checkedAt": "2026-10-15T01:30:12.858Z"
       },
       "crrc-control": {
         "id": "crrc-control",
         "ok": true,
         "status": 403,
-        "checkedAt": "2026-10-14T01:55:25.386Z"
+        "checkedAt": "2026-10-15T01:30:14.664Z"
       },
       "byd-vehicle": {
         "id": "byd-vehicle",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:33.698Z"
+        "checkedAt": "2026-10-15T01:30:17.391Z"
       },
       "nio-software": {
         "id": "nio-software",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:34.425Z"
+        "checkedAt": "2026-10-15T01:30:18.221Z"
       },
       "pdd-operation": {
         "id": "pdd-operation",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:35.141Z"
+        "checkedAt": "2026-10-15T01:30:18.878Z"
       },
       "csg-grid": {
         "id": "csg-grid",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:36.498Z"
+        "checkedAt": "2026-10-15T01:30:19.886Z"
       },
       "csair-flight": {
         "id": "csair-flight",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:39.107Z"
+        "checkedAt": "2026-10-15T01:30:21.031Z"
       },
       "cnooc-shenzhen": {
         "id": "cnooc-shenzhen",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:39.726Z"
+        "checkedAt": "2026-10-15T01:30:21.683Z"
       },
       "crpower-sz": {
         "id": "crpower-sz",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:55:40.626Z"
+        "checkedAt": "2026-10-15T01:30:22.499Z"
       },
       "cmg-sz": {
         "id": "cmg-sz",
         "ok": true,
         "status": 403,
-        "checkedAt": "2026-10-14T01:55:42.141Z"
+        "checkedAt": "2026-10-15T01:30:24.518Z"
       },
       "gzmetro": {
         "id": "gzmetro",
         "ok": false,
         "status": "ETIMEDOUT",
-        "checkedAt": "2026-10-14T01:55:42.752Z"
+        "checkedAt": "2026-10-15T01:30:25.052Z"
       },
       "szmetro": {
         "id": "szmetro",
         "ok": false,
         "status": "UND_ERR_CONNECT_TIMEOUT",
-        "checkedAt": "2026-10-14T01:56:03.126Z"
+        "checkedAt": "2026-10-15T01:30:45.502Z"
       },
       "gac-rd": {
         "id": "gac-rd",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:06.131Z"
+        "checkedAt": "2026-10-15T01:30:48.258Z"
       },
       "szinvest": {
         "id": "szinvest",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:06.491Z"
+        "checkedAt": "2026-10-15T01:30:48.444Z"
       },
       "cetcsz": {
         "id": "cetcsz",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:08.689Z"
+        "checkedAt": "2026-10-15T01:30:51.669Z"
       },
       "gd-grid": {
         "id": "gd-grid",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:10.030Z"
+        "checkedAt": "2026-10-15T01:30:52.424Z"
       },
       "sz-power": {
         "id": "sz-power",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:11.129Z"
+        "checkedAt": "2026-10-15T01:30:53.006Z"
       },
       "cmg-port": {
         "id": "cmg-port",
         "ok": false,
         "status": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
-        "checkedAt": "2026-10-14T01:56:14.858Z"
+        "checkedAt": "2026-10-15T01:30:54.710Z"
       },
       "cmhk-securities": {
         "id": "cmhk-securities",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:16.931Z"
+        "checkedAt": "2026-10-15T01:30:56.695Z"
       },
       "cr-land-sz": {
         "id": "cr-land-sz",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:18.784Z"
+        "checkedAt": "2026-10-15T01:30:57.900Z"
       },
       "ctyun-gd": {
         "id": "ctyun-gd",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:21.218Z"
+        "checkedAt": "2026-10-15T01:31:00.448Z"
       },
       "cetc-gd": {
         "id": "cetc-gd",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:22.872Z"
+        "checkedAt": "2026-10-15T01:31:01.614Z"
       },
       "gac-aion": {
         "id": "gac-aion",
         "ok": true,
         "status": 200,
-        "checkedAt": "2026-10-14T01:56:25.219Z"
+        "checkedAt": "2026-10-15T01:31:03.405Z"
       }
     }
   },
